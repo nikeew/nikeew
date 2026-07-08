@@ -4,9 +4,7 @@
 
 
 
-<p align="center">
-  Computer Science Student • Software Development • Computer Graphics
-</p>
+
 
 ---
 
