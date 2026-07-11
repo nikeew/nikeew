@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&width=900&lines=Hi,+I'm+Nika;Computer+Science+Student" />
-</p>
 
-
-
-
-
----
 
 <p align="center">
 
