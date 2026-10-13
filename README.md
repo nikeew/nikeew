@@ -20,6 +20,18 @@
   </tr>
 </table>
 
+### Education
+
+- 🎓 First-year software engineering student at **ITMO University**.
+- 🥈 Graduated from **Lyceum No. 82** with a silver medal.
+- ➗ Studied at **YuMSh**, a mathematics school.
+
+### What I'm exploring
+
+- 🤖 I want to learn **machine learning** and build projects with it.
+- 🧠 I love mathematics, algorithms, and understanding why an approach works.
+- ✨ I'm a fan of **vibe coding**; **Codex** is my favorite coding companion.
+
 ### Tech stack
 
 <div align="center">
@@ -41,5 +53,19 @@
     <img alt="Animated snake moving through my GitHub contribution graph with a progress bar beneath it" src="./assets/activity-dark.svg" width="100%" />
   </picture>
 </div>
+
+### Beyond code
+
+| Interest | A little about me |
+| :--- | :--- |
+| 🎹 Music | I'm a pianist. I love Oasis, The Police, The Cure, and David Bowie. |
+| 🏸 Squash | Candidate Master of Sports in squash. |
+| ➗ Mathematics | I enjoy solving problems and finding elegant explanations. |
+
+### GitHub stats
+
+![GitHub streak](https://streak-stats.demolab.com?user=nikeew&theme=radical)
+
+![Top languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=nikeew&layout=compact&theme=radical)
 
 <div align="center"><sub>Curiosity, code, repeat ✦</sub></div>
