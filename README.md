@@ -6,7 +6,7 @@ Software engineering student at ITMO
 
 ### About me
 
-| A little about me |  
+| A little about me | |
 | :--- | :--- |
 | Hey there! I'm Nika 👋 I'm a software engineering student at ITMO. I enjoy turning ideas into working software and learning how things work under the hood. Right now I'm exploring backend development, algorithms, and interactive graphics. | ![Moon with a colorful lightning bolt](./assets/moon-bolt.jpeg) |
 
@@ -42,6 +42,11 @@ Software engineering student at ITMO
 | 🎹 Music | I'm a pianist. I love Oasis, The Police, The Cure, David Bowie... |
 | 🏸 Professional Athlete | Candidate Master of Sports in squash. |
 | ➗ Mathematics | I enjoy solving problems and finding elegant explanations. |
+
+### Contact
+
+- [Instagram: @nika_shestakoova_](https://www.instagram.com/nika_shestakoova_/)
+- [Telegram: @nikeww](https://t.me/nikeww)
 
 ### GitHub stats
 
