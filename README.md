@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/cosmic-banner.svg" alt="Nika — software engineer, a colorful cosmic illustration" width="100%" />
+  <img src="./assets/cosmic-banner.svg" alt="Nika — software engineer" width="100%" />
 
   <h1>Hi, I'm Nika ✦</h1>
-  <p>Software engineering student at ITMO · building things for the web and beyond</p>
+  <p>Software engineering student at ITMO</p>
 </div>
 
 ### About me
