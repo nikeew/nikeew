@@ -39,7 +39,7 @@ Software engineering student at ITMO
 
 | Interest | A little about me |
 | :--- | :--- |
-| 🎹 Music | I'm a pianist. I love Oasis, The Police, The Cure, David Bowie... |
+| 🎹 Music | I'm a pianist. I very love music (Oasis, The Police, The Cure, David Bowie...) |
 | 🏸 Professional Athlete | Candidate Master of Sports in squash. |
 | ➗ Mathematics | I enjoy solving problems and finding elegant explanations. |
 
