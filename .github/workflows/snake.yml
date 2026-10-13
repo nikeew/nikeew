@@ -1,0 +1,41 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate animated SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-dark.svg?color_snake=#FF6B5F&color_dots=#161B22,#234A68,#346B85,#499D9C,#F5B74F
+            assets/snake-light.svg?color_snake=#E45C53&color_dots=#F2F5F8,#B7D9E4,#83C4CF,#55AFAF,#F5B74F
+
+      - name: Add animated progress bar below the snake
+        run: python3 scripts/add_progress.py
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-dark.svg assets/activity-light.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update contribution snake"
+            git push
+          fi
