@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nika's cosmic banner</title>
+  <desc id="desc">Bright cosmic ribbons, stars and a lightning moon on a dark background.</desc>
+  <defs>
+    <linearGradient id="space" x2="1" y2="1"><stop stop-color="#090d18"/><stop offset=".55" stop-color="#15112d"/><stop offset="1" stop-color="#071c29"/></linearGradient>
+    <linearGradient id="ribbon" x1="0" x2="1" y1=".25" y2=".8"><stop stop-color="#23c7c6"/><stop offset=".24" stop-color="#3c78ef"/><stop offset=".47" stop-color="#e45e8d"/><stop offset=".7" stop-color="#ff8546"/><stop offset="1" stop-color="#ffe17b"/></linearGradient>
+    <linearGradient id="ribbon2"><stop stop-color="#2ab9dd"/><stop offset=".48" stop-color="#a16ef2"/><stop offset="1" stop-color="#ffb454"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#f4d88b" stop-opacity=".28"/><stop offset="1" stop-color="#f4d88b" stop-opacity="0"/></radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="17"/></filter>
+    <clipPath id="frame"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#space)"/>
+    <circle cx="1000" cy="130" r="180" fill="url(#halo)"/>
+    <path d="M-130 276C83 239 185 43 380 82c160 33 210 165 376 146 162-18 276-210 536-182" fill="none" stroke="#7652dc" stroke-opacity=".45" stroke-width="54" filter="url(#blur)"/>
+    <path d="M-120 273C84 220 205 62 379 91c174 29 224 148 377 124 171-27 300-197 543-181" fill="none" stroke="url(#ribbon)" stroke-width="24" stroke-linecap="round" opacity=".92"/>
+    <path d="M-105 302C121 275 219 117 396 127c157 10 210 124 362 117 170-7 293-147 528-138" fill="none" stroke="url(#ribbon2)" stroke-width="8" stroke-linecap="round" opacity=".77"/>
+    <path d="M-35 207C175 144 223 26 423 52c126 16 229 95 332 84 128-14 292-165 498-121" fill="none" stroke="#ffe4a1" stroke-width="3" stroke-linecap="round" opacity=".72"/>
+    <circle cx="973" cy="145" r="75" fill="#eedbb4" opacity=".96"/>
+    <circle cx="956" cy="128" r="59" fill="#d0c7bd" opacity=".56"/>
+    <circle cx="930" cy="113" r="9" fill="#9f9ea8" opacity=".35"/><circle cx="1003" cy="174" r="13" fill="#9f9ea8" opacity=".3"/><circle cx="966" cy="182" r="5" fill="#9f9ea8" opacity=".3"/>
+    <path d="M1008 63l-52 78h35l-45 84 78-105h-37z" fill="#ff6b48" stroke="#34389f" stroke-width="4" stroke-linejoin="round"/>
+    <g fill="#fff9db"><circle cx="79" cy="56" r="2"/><circle cx="171" cy="102" r="1.4"/><circle cx="266" cy="43" r="2"/><circle cx="477" cy="26" r="1.5"/><circle cx="587" cy="64" r="2.2"/><circle cx="709" cy="31" r="1.5"/><circle cx="816" cy="84" r="2"/><circle cx="1116" cy="53" r="1.7"/><circle cx="1160" cy="199" r="1.5"/><circle cx="840" cy="275" r="2"/><circle cx="623" cy="284" r="1.5"/><circle cx="309" cy="275" r="1.7"/></g>
+    <g fill="none" stroke="#fff4c7" stroke-width="2" stroke-linecap="round" opacity=".85"><path d="M117 160v14m-7-7h14"/><path d="M532 166v12m-6-6h12"/><path d="M1101 266v14m-7-7h14"/><path d="M809 39v10m-5-5h10"/></g>
+    <rect x="38" y="28" width="470" height="72" rx="12" fill="#080e1c" opacity=".66"/>
+    <text x="62" y="77" fill="#fff9ed" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" letter-spacing="5">NIKA ✦ CODE</text>
+    <text x="64" y="119" fill="#d0e6ee" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="3">LEARNING · BUILDING · EXPLORING</text>
+  </g>
+</svg>
