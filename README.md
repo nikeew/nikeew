@@ -8,7 +8,7 @@ Software engineering student at ITMO
 
 |  |  |
 | :--- | :--- |
-| Hey there! I'm Nika 👋 I'm a software engineering student at ITMO. I enjoy turning ideas into working software and learning how things work under the hood. Right now I'm exploring backend development, algorithms, and interactive graphics. | ![Moon with a colorful lightning bolt](./assets/moon-bolt.jpeg) |
+| Hey there! I'm Nika 👋 I'm a software engineering student at ITMO. I enjoy turning ideas into working software and learning how things work under the hood. Right now I'm exploring backend development, algorithms, and interactive graphics. | ![Moon with a colorful lightning bolt](https://raw.githubusercontent.com/nikeew/nikeew/main/assets/moon-bolt.jpeg) |
 
 ### Education
 
@@ -33,7 +33,7 @@ Software engineering student at ITMO
 
 ### Contribution trail
 
-![Animated snake moving through my GitHub contribution graph with a progress bar beneath it](./assets/activity-dark.svg)
+![Animated snake moving through my GitHub contribution graph with a progress bar beneath it](https://raw.githubusercontent.com/nikeew/nikeew/main/assets/activity-dark.svg)
 
 ### Beyond code
 
